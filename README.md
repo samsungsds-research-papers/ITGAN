@@ -1,5 +1,6 @@
 # ITGAN
 
+Invertible Table GAN
 ### Introduction
 | 제목 | Tabular data向 재현데이터 성능 고도화 |
 |:---:|:---|
